@@ -15,10 +15,6 @@ You need the following programs/executables installed in your computer:
 First, make a backup of your current neovim configuration.
 
 ```bash
-```
-```
-```bash
-```
 # required
 mv ~/.config/nvim{,.bak}
 
